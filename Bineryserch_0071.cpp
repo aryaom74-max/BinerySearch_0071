@@ -12,7 +12,7 @@ void input()
     //Membuat perulangan while
     while (true)
     {
-        cout << "Masukkan banyaknya elemen pada array (maksiaml 10): ";
+        cout << "Masukkan banyaknya elemen pada ar (maksiaml 10): ";
         cin >> nPanjang;
 
         if (nPanjang <= 10) //Membuat kondisi jika jumlah elemen tidak lebih dari 10, maka perulangan akan berhenti
